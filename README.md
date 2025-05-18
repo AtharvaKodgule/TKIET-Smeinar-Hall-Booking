@@ -110,4 +110,4 @@ Feel free to reach out if you have any questions or suggestions:
 
 GitHub: AtharvaKodgule \
 LinkedIn: Atharva Kodgule  \
-Email: kodguleatharva@gmail.com  \
+Email: kodguleatharva@gmail.com  
