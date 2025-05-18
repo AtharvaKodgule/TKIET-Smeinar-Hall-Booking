@@ -108,6 +108,6 @@ The application will be available at `http://localhost:3005`
 📞 Contact
 Feel free to reach out if you have any questions or suggestions:
 
-GitHub: AtharvaKodgule ;
-LinkedIn: Atharva Kodgule  ;
-Email: kodguleatharva@gmail.com  ;
+GitHub: AtharvaKodgule \
+LinkedIn: Atharva Kodgule  \
+Email: kodguleatharva@gmail.com  \
